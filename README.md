@@ -4,7 +4,8 @@
 
 Desenvolvedor Full Stack na Veia 🚀
 
-Olá! Sou um Dev Full Stack apaixonado por código e apaixonado por desafios! Trabalho com Node.js, Python, .NET, Angular, React.js, C# - é, basicamente, sou o "Jack-of-all-trades" do mundo da programação. 
+Olá! Sou um Dev Full Stack apaixonado por código e apaixonado por desafios! Trabalho com Node.js, Python, .NET, Angular, React.js, C# - é, basicamente, sou o "Jack-of-all-trades" do mundo da programação.
+
 Além disso, mando bem em bancos de dados como SQL Server, PostgreSQL e Oracle. Ah, e me divirto bastante com testes automatizados usando Selenium, Python, Cypress e C#.
 
 <!--github stats-->
